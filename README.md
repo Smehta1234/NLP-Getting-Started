@@ -1,24 +1,28 @@
-# NLP Getting Started 🚀
-This repository contains a comprehensive notebook on natural language processing (NLP), covering essential steps to process and analyze text data effectively.
+# 📝 NLP Getting Started
 
-## Key Highlights 📊
-Data Visualization: Exploratory data analysis to understand text distribution and insights.
-Embeddings: Generating meaningful numerical representations of text.
-TextVectorization Layer: Implementing TensorFlow's TextVectorization layer for efficient preprocessing.
+A comprehensive notebook exploring text classification techniques using various NLP models. The project covers data visualization, feature engineering, and multiple deep learning approaches.
 
-## Models Implemented 🏗️
-I have applied and evaluated five different models to compare performance:
+## 📂 Project Overview
 
-Model 0: Naive Bayes (Baseline)
-Model 1: Simple Dense Neural Network
-Model 2: Long Short-Term Memory (LSTM)
-Model 3: Gated Recurrent Unit (GRU)
-Model 4: Bidirectional RNN
+- **Data Preprocessing:**  
+  - Visualizing text data effectively  
+  - Creating embeddings for better feature representation  
+  - Implementing a `TextVectorization` layer for efficient text processing  
 
-## Evaluation Metrics 📈
-Each model's performance is assessed using the following metrics:
+- **Models Applied:**  
+  - `Model 0` – Naive Bayes (Baseline)  
+  - `Model 1` – Simple Dense Neural Network  
+  - `Model 2` – Long Short-Term Memory (LSTM)  
+  - `Model 3` – Gated Recurrent Unit (GRU)  
+  - `Model 4` – Bidirectional RNN  
 
-Accuracy
-Precision
-Recall
-F1 Score
+## 📊 Evaluation Metrics
+
+Each model is evaluated based on the following key performance indicators:
+
+- **Accuracy**  
+- **Precision**  
+- **Recall**  
+- **F1 Score**  
+
+
